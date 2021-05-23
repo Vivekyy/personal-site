@@ -5,7 +5,6 @@ const degrees = [
     link: 'https://www.columbia.edu/',
     year: 2023,
     info: 'GPA: 3.96',
-    honors: 'Dean\'s List: Fall 2020 - Present',
   },
   {
     school: 'Davidson Academy',
