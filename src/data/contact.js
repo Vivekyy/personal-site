@@ -28,7 +28,7 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'mailto:michael.l.dangelo@gmail.com',
+    link: 'mailto:vivekyanamadula@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },
