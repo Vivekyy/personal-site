@@ -61,6 +61,20 @@
 		}
 	}
 
+	.languages {
+		padding-top: 1.6em;
+		.title {
+			text-align: center;
+		}
+		.language-list {
+			text-align: center;
+
+			h4 {
+				white-space: nowrap;
+			}
+		}
+	}
+
 	.skills {
 		margin-top: 2em;
 		.title {
@@ -120,6 +134,30 @@
 }
 
 .course-dot {
+	display: inline;
+	// display: none;
+}
+
+.languages .language-name {
+	display: inline;
+}
+
+.languages .language-fluency {
+	display: inline;
+	font-family: "Raleway", Helvetica, sans-serif;
+	font-size: 0.7em;
+  font-weight: 400;
+  letter-spacing: 0.25em;
+  line-height: 2.5;
+  margin-top: -1em;
+  text-transform: uppercase;
+}
+
+.languages ul li{
+	display: inline;
+  }
+
+.language-dot {
 	display: inline;
 	// display: none;
 }

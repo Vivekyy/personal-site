@@ -9,7 +9,7 @@ const skills = [
   },
   {
     title: 'Bash',
-    competency: 2,
+    competency: 3,
     category: ['Coding Tools', 'Programming Languages'],
   },
   {
@@ -19,12 +19,17 @@ const skills = [
   },
   {
     title: 'Git',
-    competency: 3,
+    competency: 5,
     category: ['Coding Tools'],
   },
   {
+    title: 'Vim',
+    competency: 3,
+    category: ['Coding Tools', 'Currently Learning'],
+  },
+  {
     title: 'Numpy',
-    competency: 4,
+    competency: 5,
     category: ['Data Science', 'Python'],
   },
   {
@@ -48,6 +53,11 @@ const skills = [
     category: ['Programming Languages', 'Currently Learning'],
   },
   {
+    title: 'C',
+    competency: 3,
+    category: ['Programming Languages', 'Currently Learning'],
+  },
+  {
     title: 'MATLAB',
     competency: 3,
     category: ['Programming Languages'],
@@ -59,12 +69,12 @@ const skills = [
   },
   {
     title: 'Matplotlib',
-    competency: 3,
+    competency: 4,
     category: ['Data Science', 'Python'],
   },
   {
     title: 'Scikit-Learn',
-    competency: 3,
+    competency: 5,
     category: ['Data Science', 'Python'],
   },
   {
@@ -74,7 +84,7 @@ const skills = [
   },
   {
     title: 'SPSS',
-    competency: 3,
+    competency: 2,
     category: ['Data Science', 'Programming Languages'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));

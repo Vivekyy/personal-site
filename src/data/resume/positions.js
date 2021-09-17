@@ -1,5 +1,38 @@
 const positions = [
   {
+    company: 'Columbia University',
+    position: 'Course Assistant',
+    link: 'http://www.cs.columbia.edu/~xichen/cstheory/',
+    daterange: 'Fall 2021',
+    points: [
+      'Served as a Course Assistant for Computer Science Theory (COMS W3261) under Professor Xi Chen',
+      'Held office hours once a week and helped grade assignments for current students',
+    ],
+  },
+  {
+    company: 'Department of Veterans Affairs',
+    position: 'Summer Intern',
+    link: 'http://basilwhite.com/ivm/',
+    daterange: 'Summer 2021',
+    points: [
+      'Created an AI recommender system to help expedite/automate inputting new directives into the VA\'s IVM dataset',
+      'Key Programming Languages/Libraries Used: Python, Numpy, PyTorch, Pandas',
+      'See GitHub for more',
+    ],
+  },
+  {
+    company: 'Inspirit AI',
+    position: 'Instructor',
+    link: 'https://www.inspiritai.com/',
+    daterange: 'Summer 2021',
+    points: [
+      'Taught three two-week summer programs for high school students interested in learning about AI',
+      'Gave lectures on AI Fundamentals, Computer Vision, NLP, and more',
+      'Led an interactive coding project for students to get hands-on experience with applying AI tools to real world problems',
+      'Key Programming Languages/Libraries Used: Python, Scikit-learn, Numpy, Pandas',
+    ],
+  },
+  {
     company: 'Junfeng Yang Lab',
     position: 'Researcher',
     link: 'http://www.cs.columbia.edu/~junfeng/',
@@ -7,6 +40,7 @@ const positions = [
     points: [
       'Performed research on ensuring adversarial robustness of neural networks across different domains of input data.',
       'Key Programming Languages/Libraries Used: Python, Numpy, PyTorch',
+      'See GitHub for more',
     ],
   },
   {

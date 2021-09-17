@@ -1,5 +1,15 @@
 const courses = [
   {
+    title: 'Fundamentals of Computer Systems',
+    number: 'CSEE 3827',
+    university: 'Columbia',
+  },
+  {
+    title: 'Advanced Programming',
+    number: 'COMS W3157',
+    university: 'Columbia',
+  },
+  {
     title: 'Machine Learning',
     number: 'COMS W4771',
     university: 'Columbia',
