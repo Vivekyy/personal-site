@@ -1,5 +1,10 @@
 const courses = [
   {
+    title: 'Arithmetic Dynamics',
+    number: 'MATH 3951',
+    university: 'Columbia',
+  },
+  {
     title: 'Fundamentals of Computer Systems',
     number: 'CSEE 3827',
     university: 'Columbia',

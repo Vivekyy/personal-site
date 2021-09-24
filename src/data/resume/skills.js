@@ -24,7 +24,7 @@ const skills = [
   },
   {
     title: 'Vim',
-    competency: 3,
+    competency: 4,
     category: ['Coding Tools', 'Currently Learning'],
   },
   {
