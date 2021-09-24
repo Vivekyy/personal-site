@@ -1,12 +1,12 @@
 const positions = [
   {
-    company: 'Columbia University',
+    company: 'Columbia University (Under Xi Chen)',
     position: 'Course Assistant',
     link: 'http://www.cs.columbia.edu/~xichen/cstheory/',
     daterange: 'Fall 2021',
     points: [
       'Served as a Course Assistant for Computer Science Theory (COMS W3261) under Professor Xi Chen',
-      'Held office hours once a week and helped grade assignments for current students',
+      'Held office hours once a week, presented material for review sessions, and helped grade assignments for current students',
     ],
   },
   {
