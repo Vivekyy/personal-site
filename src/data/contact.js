@@ -28,7 +28,7 @@ const data = [
     icon: faLinkedinIn,
   },
   {
-    link: 'mailto:vivekyanamadula@gmail.com',
+    link: 'mailto:vivek.y@columbia.edu',
     label: 'Email',
     icon: faEnvelope,
   },

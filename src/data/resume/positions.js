@@ -10,6 +10,16 @@ const positions = [
     ],
   },
   {
+    company: 'Eugene Wu Lab',
+    position: 'Researcher',
+    link: 'https://cudbg.github.io/lab/',
+    daterange: 'Fall 2021 - Present',
+    points: [
+      'Working on utilizing data lineage to explain the origins of outlier datapoints in data visualizations',
+      'Key Programming Languages/Libraries Used: C++, SQL',
+    ],
+  },
+  {
     company: 'Department of Veterans Affairs',
     position: 'Summer Intern',
     link: 'http://basilwhite.com/ivm/',
@@ -36,7 +46,7 @@ const positions = [
     company: 'Junfeng Yang Lab',
     position: 'Researcher',
     link: 'http://www.cs.columbia.edu/~junfeng/',
-    daterange: '2021 - Present',
+    daterange: 'Spring 2021',
     points: [
       'Performed research on ensuring adversarial robustness of neural networks across different domains of input data.',
       'Key Programming Languages/Libraries Used: Python, Numpy, PyTorch',
@@ -47,7 +57,7 @@ const positions = [
     company: 'Columbia Social Entrepreneurship Group',
     position: 'Consultant',
     link: 'http://www.columbiaseg.org/',
-    daterange: '2019 - Present',
+    daterange: 'Fall 2019 - Present',
     points: [
       'Crauderueff Solar: Worked on a team of students to help identify unadressed market segments for Crauderueff. Pitched potential clients alongside a step-by-step plan on selling to proposed clientele to the CEO.',
       'Shimmy: Helped devise a plan for selecting advertising partners and monetizing Shimmy\'s new Harold app, an online game aimed to help reskill blue-collar workers to adapt to increasingly automated industires.',
@@ -57,7 +67,7 @@ const positions = [
     company: 'Hyo Jeon Lab',
     position: 'Researcher',
     link: 'https://www.unr.edu/business/about/faculty-and-staff/jeon-jean',
-    daterange: '2018 - Present',
+    daterange: 'Fall 2018 - Fall 2019',
     points: [
       'Conducted surveys of over 1000 participants and analyzed response data to better understand the impact of sustainabile initiatives on consumer perceptions of hotels.',
       'Research accepted to the American Marketing Association\'s 2020 Summer Conference',

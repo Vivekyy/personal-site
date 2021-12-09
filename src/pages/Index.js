@@ -22,6 +22,9 @@ const Index = () => (
         and <Link to="/projects">projects</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
+      <p style={{ fontSize: 14 }}>
+        Last updated: 12/9/2021
+      </p>
     </article>
   </Main>
 );

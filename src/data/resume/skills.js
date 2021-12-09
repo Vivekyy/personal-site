@@ -5,16 +5,16 @@ const skills = [
   {
     title: 'Javascript',
     competency: 2,
-    category: ['Web Development', 'Programming Languages', 'Currently Learning'],
+    category: ['Web Development', 'Programming Languages'],
   },
   {
     title: 'Bash',
-    competency: 3,
-    category: ['Coding Tools', 'Programming Languages'],
+    competency: 4,
+    category: ['Coding Tools'],
   },
   {
     title: 'SQL',
-    competency: 0,
+    competency: 1,
     category: ['Web Development', 'Programming Languages', 'Currently Learning'],
   },
   {
@@ -25,37 +25,37 @@ const skills = [
   {
     title: 'Vim',
     competency: 4,
-    category: ['Coding Tools', 'Currently Learning'],
+    category: ['Coding Tools'],
   },
   {
     title: 'Numpy',
     competency: 5,
-    category: ['Data Science', 'Python'],
+    category: ['Data Science', 'Python & Libraries'],
   },
   {
     title: 'PyTorch',
     competency: 4,
-    category: ['Data Science', 'Python'],
+    category: ['Data Science', 'Python & Libraries'],
   },
   {
     title: 'HTML + SASS/SCSS/CSS',
     competency: 2,
-    category: ['Web Development', 'Programming Languages', 'Currently Learning'],
+    category: ['Web Development', 'Programming Languages'],
   },
   {
     title: 'Python',
     competency: 5,
-    category: ['Programming Languages', 'Python', 'Data Science'],
+    category: ['Programming Languages', 'Python & Libraries', 'Data Science'],
   },
   {
     title: 'C++',
-    competency: 1,
+    competency: 2,
     category: ['Programming Languages', 'Currently Learning'],
   },
   {
     title: 'C',
-    competency: 3,
-    category: ['Programming Languages', 'Currently Learning'],
+    competency: 4,
+    category: ['Programming Languages'],
   },
   {
     title: 'MATLAB',
@@ -65,17 +65,17 @@ const skills = [
   {
     title: 'Pandas',
     competency: 3,
-    category: ['Data Science', 'Python'],
+    category: ['Data Science', 'Python & Libraries'],
   },
   {
     title: 'Matplotlib',
     competency: 4,
-    category: ['Data Science', 'Python'],
+    category: ['Data Science', 'Python & Libraries'],
   },
   {
     title: 'Scikit-Learn',
     competency: 5,
-    category: ['Data Science', 'Python'],
+    category: ['Data Science', 'Python & Libraries'],
   },
   {
     title: 'Java',
