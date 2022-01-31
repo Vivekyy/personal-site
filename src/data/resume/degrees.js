@@ -4,7 +4,7 @@ const degrees = [
     degree: 'B.A. Mathematics, B.A. Computer Science (Tentative)',
     link: 'https://www.columbia.edu/',
     year: 2023,
-    info: 'GPA: 3.95',
+    info: 'GPA: 3.98',
   },
   {
     school: 'Davidson Academy',

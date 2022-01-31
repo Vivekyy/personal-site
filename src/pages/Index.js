@@ -23,7 +23,7 @@ const Index = () => (
         or <Link to="/contact">contact</Link> me.
       </p>
       <p style={{ fontSize: 14 }}>
-        Last updated: 12/9/2021
+        Last updated: 1/30/2022
       </p>
     </article>
   </Main>
