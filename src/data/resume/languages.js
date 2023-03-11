@@ -9,7 +9,7 @@ const languages = [
   },
   {
     name: 'German',
-    fluency: 'Intermediate (Learning),',
+    fluency: 'Intermediate,',
   },
   {
     name: 'Telugu',

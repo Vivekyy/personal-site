@@ -12,18 +12,18 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">Welcome</Link></h2>
           <p>
-            Hi, my name is Vivek Yanamadula, welcome to my website!
+            To My Personal Website!
           </p>
         </div>
       </header>
-      <p> Please feel free to read more <Link to="/about">about me</Link>,
+      <p> Please feel free to <Link to="/about">read more about me</Link>,
         check out my {' '}
         <Link to="/resume">resume</Link> {' '}
         and <Link to="/projects">projects</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+        or <Link to="/contact">contact me</Link>.
       </p>
       <p style={{ fontSize: 14 }}>
-        Last updated: 1/30/2022
+        Last updated: 3/11/2023
       </p>
     </article>
   </Main>

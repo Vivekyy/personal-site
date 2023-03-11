@@ -3,8 +3,23 @@
 
 const skills = [
   {
-    title: 'Javascript',
-    competency: 2,
+    title: 'Qiskit',
+    competency: 4,
+    category: ['Quantum Computing', 'Python & Libraries'],
+  },
+  {
+    title: 'PennyLane',
+    competency: 3,
+    category: ['Quantum Computing', 'Python & Libraries', 'Currently Learning'],
+  },
+  {
+    title: 'TorchQuantum',
+    competency: 4,
+    category: ['Quantum Computing', 'Python & Libraries'],
+  },
+  {
+    title: 'Javascript/Typescript',
+    competency: 3,
     category: ['Web Development', 'Programming Languages'],
   },
   {
@@ -24,7 +39,7 @@ const skills = [
   },
   {
     title: 'Vim',
-    competency: 4,
+    competency: 5,
     category: ['Coding Tools'],
   },
   {
@@ -35,7 +50,7 @@ const skills = [
   {
     title: 'PyTorch',
     competency: 4,
-    category: ['Data Science', 'Python & Libraries'],
+    category: ['Machine Learning', 'Python & Libraries'],
   },
   {
     title: 'HTML + SASS/SCSS/CSS',
@@ -45,16 +60,16 @@ const skills = [
   {
     title: 'Python',
     competency: 5,
-    category: ['Programming Languages', 'Python & Libraries', 'Data Science'],
+    category: ['Programming Languages', 'Python & Libraries'],
   },
   {
     title: 'C++',
-    competency: 3,
+    competency: 4,
     category: ['Programming Languages', 'Currently Learning'],
   },
   {
     title: 'C',
-    competency: 4,
+    competency: 5,
     category: ['Programming Languages'],
   },
   {
@@ -75,7 +90,7 @@ const skills = [
   {
     title: 'Scikit-Learn',
     competency: 5,
-    category: ['Data Science', 'Python & Libraries'],
+    category: ['Machine Learning', 'Python & Libraries'],
   },
   {
     title: 'Java',
